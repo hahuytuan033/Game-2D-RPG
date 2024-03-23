@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private PlayerControls playerControls;
     private Vector2 movement;
     private Rigidbody2D rb;
-
+    
     private Animator myAnimator;
     private SpriteRenderer mySpriteRenderer;
 
